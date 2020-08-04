@@ -1,0 +1,6 @@
+/target/
+/.settings/
+.classpath
+.project
+/LOG_PATH_IS_UNDEFINED/
+/bin/
